@@ -44,4 +44,6 @@ This project is a web-based application that detects pneumonia from chest X-ray 
 ![Pneumonia](screenshots/result_pneumonia.png)
 
 ## Demo Video
-See demo/demo_video_link.txt for video link.
+Watch the project demo here:
+[click to watch demo video]
+https://drive.google.com/file/d/1Gg_frz7g5dpo8sNOqamRbs6lpwvn1xOr/view?usp=drivesdk
